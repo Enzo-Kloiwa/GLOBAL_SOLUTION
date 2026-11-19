@@ -1,0 +1,11 @@
+codigo;dia;status_anterior;status_novo;observacao
+001;3;ABERTA;EM_ANALISE;Equipe de manutenção avaliou os postes
+003;5;ABERTA;EM_ANALISE;Terreno vistoriado
+002;6;ABERTA;EM_ANALISE;Medição da calçada agendada
+001;9;EM_ANALISE;CONCLUIDA;Lâmpadas substituídas
+004;10;ABERTA;EM_ANALISE;Bancos fotografados para orçamento
+007;10;ABERTA;EM_ANALISE;Rota de coleta revisada
+003;12;EM_ANALISE;CONCLUIDA;Entulho removido
+008;13;ABERTA;EM_ANALISE;Rede elétrica em verificação
+007;14;EM_ANALISE;CONCLUIDA;Coleta normalizada
+010;20;ABERTA;EM_ANALISE;Roçada incluída no cronograma

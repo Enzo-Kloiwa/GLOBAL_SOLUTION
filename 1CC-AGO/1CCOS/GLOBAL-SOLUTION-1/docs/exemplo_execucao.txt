@@ -1,0 +1,165 @@
+============================================================
+  NEIGHBORHOOD ACTION DASHBOARD - Comunidade Vale Verde
+============================================================
+12 ocorrências carregadas, 10 eventos no histórico, 2 registro(s) inconsistente(s) separado(s).
+
+--- MENU (dia 30) ---
+  1) Listar todas as ocorrências
+  2) Buscar ocorrência por código
+  3) Filtrar por categoria e/ou situação
+  4) Cadastrar nova ocorrência
+  5) Triagem: examinar a próxima da fila
+  6) Atualizar a situação de uma ocorrência
+  7) Ver últimas atualizações
+  8) Ver hierarquia bairro -> categoria
+  9) Painel de indicadores
+ 10) Ver registros inconsistentes
+ 11) Avançar o dia da simulação
+ 12) Ajuda: situações e regras
+  0) Sair
+Opção: 4
+
+=== CADASTRAR NOVA OCORRÊNCIA ===
+Não informe nomes, telefones ou e-mails: use apenas locais genéricos.
+Categoria:
+  1) Iluminação
+  2) Acessibilidade
+  3) Limpeza
+  4) Conservação
+Escolha: 1
+Bairros já cadastrados: Jardim das Acácias, Vale Verde Centro, Vila Nova Esperança
+Descrição breve: Poste apagado em frente ao banco da praça
+Bairro: Jardim das Acácias
+Local genérico (ex.: Praça Central): Praça Central
+[OK] Ocorrência 015 cadastrada como 'Aberta' no dia 30 e colocada na fila de triagem.
+
+--- MENU (dia 30) ---
+  1) Listar todas as ocorrências
+  2) Buscar ocorrência por código
+  3) Filtrar por categoria e/ou situação
+  4) Cadastrar nova ocorrência
+  5) Triagem: examinar a próxima da fila
+  6) Atualizar a situação de uma ocorrência
+  7) Ver últimas atualizações
+  8) Ver hierarquia bairro -> categoria
+  9) Painel de indicadores
+ 10) Ver registros inconsistentes
+ 11) Avançar o dia da simulação
+ 12) Ajuda: situações e regras
+  0) Sair
+Opção: 3
+
+=== FILTRAR OCORRÊNCIAS ===
+Categoria:
+  1) Iluminação
+  2) Acessibilidade
+  3) Limpeza
+  4) Conservação
+  Enter) todas
+Escolha: 1
+Situação:
+  1) Aberta
+  2) Em análise
+  3) Concluída
+  Enter) todas
+Escolha: 1
+
+Filtro: categoria = Iluminação | situação = Aberta
+Cód.  Categoria       Bairro               Local                        Situação   
+----------------------------------------------------------------------------------
+005   Iluminação      Vila Nova Esperança  Ponto de ônibus da avenida … Aberta     
+012   Iluminação      Vila Nova Esperança  Quadra poliesportiva         Aberta     
+015   Iluminação      Jardim das Acácias   Praça Central                Aberta     
+Total: 3 ocorrência(s).
+
+--- MENU (dia 30) ---
+  1) Listar todas as ocorrências
+  2) Buscar ocorrência por código
+  3) Filtrar por categoria e/ou situação
+  4) Cadastrar nova ocorrência
+  5) Triagem: examinar a próxima da fila
+  6) Atualizar a situação de uma ocorrência
+  7) Ver últimas atualizações
+  8) Ver hierarquia bairro -> categoria
+  9) Painel de indicadores
+ 10) Ver registros inconsistentes
+ 11) Avançar o dia da simulação
+ 12) Ajuda: situações e regras
+  0) Sair
+Opção: 6
+
+=== ATUALIZAR SITUAÇÃO ===
+Código da ocorrência: 015
+Situação atual: Aberta
+Mudar para:
+  1) Em análise
+Escolha: 1
+Observação (opcional): equipe de iluminação acionada
+[OK] Ocorrência 015: 'Aberta' -> 'Em análise' (dia 30).
+
+--- MENU (dia 30) ---
+  1) Listar todas as ocorrências
+  2) Buscar ocorrência por código
+  3) Filtrar por categoria e/ou situação
+  4) Cadastrar nova ocorrência
+  5) Triagem: examinar a próxima da fila
+  6) Atualizar a situação de uma ocorrência
+  7) Ver últimas atualizações
+  8) Ver hierarquia bairro -> categoria
+  9) Painel de indicadores
+ 10) Ver registros inconsistentes
+ 11) Avançar o dia da simulação
+ 12) Ajuda: situações e regras
+  0) Sair
+Opção: 9
+
+=== PAINEL DE INDICADORES ===
+Dados de origem: 13 ocorrências válidas, dia atual = 30
+Regra: proporção (%) = quantidade / total x 100
+
+Por categoria:
+  Iluminação        5  ( 38.5%)
+  Acessibilidade    3  ( 23.1%)
+  Limpeza           3  ( 23.1%)
+  Conservação       2  ( 15.4%)
+
+Por situação:
+  Aberta            5  ( 38.5%)
+  Em análise        5  ( 38.5%)
+  Concluída         3  ( 23.1%)
+
+Matriz categoria x situação:
+                       Aberta  Em análise   Concluída   Total
+  Iluminação                2           2           1       5
+  Acessibilidade            2           1           0       3
+  Limpeza                   0           1           2       3
+  Conservação               1           1           0       2
+
+Pendências (abertas + em análise): 10
+Tempo médio até a conclusão = soma (dia de conclusão - dia de abertura) / concluídas
+  tempos: 7, 8, 5 -> média = 6.7 dias
+Espera média das pendentes = soma (dia atual - dia de abertura) / pendentes
+  média = 15.6 dias
+
+Interpretação:
+  - Mais ocorrências: Iluminação (5 de 13).
+  - Mais pendências: Iluminação (4 em aberto ou em análise).
+  - Só 23% das demandas foram concluídas; 10 seguem pendentes.
+  - As pendências já esperam, em média, mais do que o tempo que as concluídas levaram: é sinal de fila acumulando.
+
+--- MENU (dia 30) ---
+  1) Listar todas as ocorrências
+  2) Buscar ocorrência por código
+  3) Filtrar por categoria e/ou situação
+  4) Cadastrar nova ocorrência
+  5) Triagem: examinar a próxima da fila
+  6) Atualizar a situação de uma ocorrência
+  7) Ver últimas atualizações
+  8) Ver hierarquia bairro -> categoria
+  9) Painel de indicadores
+ 10) Ver registros inconsistentes
+ 11) Avançar o dia da simulação
+ 12) Ajuda: situações e regras
+  0) Sair
+Opção: 0
+Até logo! Obrigado por acompanhar as demandas da comunidade.

@@ -1,0 +1,15 @@
+codigo;categoria;descricao;bairro;local;dia_abertura;status
+001;ILUMINACAO;Três postes apagados ao redor da praça;Jardim das Acácias;Praça Central;2;CONCLUIDA
+002;ACESSIBILIDADE;Calçada sem rampa na esquina da escola;Vale Verde Centro;Entrada da escola municipal;3;EM_ANALISE
+003;LIMPEZA;Entulho acumulado em terreno ao lado da quadra;Vila Nova Esperança;Quadra poliesportiva;4;CONCLUIDA
+004;CONSERVACAO;Bancos quebrados no parque;Vale Verde Centro;Parque linear;5;EM_ANALISE
+005;ILUMINACAO;Luminária piscando no ponto de ônibus;Vila Nova Esperança;Ponto de ônibus da avenida principal;7;ABERTA
+006;ACESSIBILIDADE;Piso tátil danificado na passarela;Jardim das Acácias;Passarela da estação;8;ABERTA
+007;LIMPEZA;Lixeiras cheias e sem coleta na feira;Vale Verde Centro;Rua da feira livre;9;CONCLUIDA
+008;ILUMINACAO;Rua inteira sem iluminação à noite;Jardim das Acácias;Rua próxima ao córrego;12;EM_ANALISE
+009;CONSERVACAO;Alambrado da quadra rasgado;Vila Nova Esperança;Quadra poliesportiva;15;ABERTA
+010;LIMPEZA;Mato alto cobrindo a calçada;Jardim das Acácias;Calçada da praça;18;EM_ANALISE
+011;ACESSIBILIDADE;Buraco na faixa de pedestres dificulta a passagem de cadeira de rodas;Vale Verde Centro;Faixa em frente à UBS;21;ABERTA
+012;ILUMINACAO;Refletor da quadra queimado;Vila Nova Esperança;Quadra poliesportiva;25;ABERTA
+013;;Lâmpada queimada na viela;Vila Nova Esperança;Viela de acesso;26;ABERTA
+014;LIMPEZA;Restos de poda na calçada;Jardim das Acácias;Calçada da escola;27;RESOLVIDO
