@@ -2,7 +2,7 @@
 Neighborhood Action Dashboard
 Painel comunitário de ocorrências da Comunidade Vale Verde (fictícia)
 
-Global Solution 2026.2 - FIAP - Ciência da Computação - Grupo 38
+Global Solution 2026.2 - FIAP - Ciência da Computação - Grupo 34
 
 Como executar (a partir da pasta GLOBAL-SOLUTION-1):
     python src/sistema.py
