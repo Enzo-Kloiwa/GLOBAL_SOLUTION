@@ -20,7 +20,7 @@ Este repositório reúne os projetos, desafios e entregas do grupo ao longo da g
 
 | Ano / turma | Atividade | Grupo | Descrição | Pasta |
 |---|---|---|---|---|
-| 1CC-AGO / 1CCOS | Global Solution 2026.2 | 38 | **Neighborhood Action Dashboard**: painel comunitário de ocorrências em Python | [`1CC-AGO/1CCOS/GLOBAL-SOLUTION-1`](1CC-AGO/1CCOS/GLOBAL-SOLUTION-1) |
+| 1CC-AGO / 1CCOS | Global Solution 2026.2 | 34 | **Neighborhood Action Dashboard**: painel comunitário de ocorrências em Python | [`1CC-AGO/1CCOS/GLOBAL-SOLUTION-1`](1CC-AGO/1CCOS/GLOBAL-SOLUTION-1) |
 
 Os projetos da Missão Aurora Siger (Fases 1 a 3) estão em [missao-aurora](https://github.com/rafaelaatanasio/missao-aurora).
 
