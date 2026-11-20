@@ -14,7 +14,7 @@
 
 Global Solution 2026.2 · Desafio CitizenTech
 
-## Grupo 38
+## Grupo 34
 
 ## 👨‍🎓 Integrantes:
 - Enzo Yugi Kloiwa — RM 574398
