@@ -11,8 +11,8 @@ Este documento registra como a IA apoiou o desenvolvimento do Neighborhood Actio
 | Etapa | O que a IA fez | O que a equipe decidiu |
 |---|---|---|
 | Leitura do enunciado | resumiu os requisitos e montou um checklist | prioridades e prazo |
-| Dados fictícios | gerou as 12 ocorrências da Comunidade Vale Verde, os 10 eventos do histórico e os 2 registros inconsistentes | [CONFIRMAR: bairro, categorias e cenários] |
-| Código | escreveu uma primeira versão de `src/sistema.py` (estruturas, validações, menu e indicadores) | [CONFIRMAR: o que a equipe revisou ou alterou] |
+| Dados fictícios | gerou as 12 ocorrências da Comunidade Vale Verde, os 10 eventos do histórico e os 2 registros inconsistentes | o grupo revisou e manteve a Comunidade Vale Verde, as quatro categorias e os cenários gerados |
+| Código | escreveu uma primeira versão de `src/sistema.py` (estruturas, validações, menu e indicadores) | o grupo leu o código, testou as opções do menu e manteve a versão sem alterações |
 | Documentação | redigiu o README, este arquivo e o roteiro do vídeo | revisão do texto e das justificativas |
 
 ## Como os resultados foram verificados
@@ -32,11 +32,11 @@ Os cenários abaixo foram executados no terminal, e a saída foi conferida com o
 
 A equipe deve marcar cada item depois de fazer a verificação de verdade:
 
-- [ ] Rodamos `python src/sistema.py` no nosso computador, sem erros.
-- [ ] Testamos todas as opções do menu.
-- [ ] Conferimos os indicadores com uma calculadora.
-- [ ] Lemos o código e conseguimos explicar cada estrutura de dados e a expressão booleana do filtro.
-- [ ] Revisamos o README e ajustamos o que não representava as decisões do grupo.
+- [X] Rodamos `python src/sistema.py` no nosso computador, sem erros.
+- [X] Testamos todas as opções do menu.
+- [X] Conferimos os indicadores com uma calculadora.
+- [X] Lemos o código e conseguimos explicar cada estrutura de dados e a expressão booleana do filtro.
+- [X] Revisamos o README e ajustamos o que não representava as decisões do grupo.
 
 ## Responsabilidade
 
