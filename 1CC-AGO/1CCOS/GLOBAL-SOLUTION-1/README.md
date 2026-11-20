@@ -25,7 +25,7 @@ Global Solution 2026.2 · Desafio CitizenTech
 ## 👩‍🏫 Professores:
 
 ### Tutor(a)
-- ANDRÉ TRITIACK
+- André Tritiack
 
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/andregodoichiovato/">André Godoi Chiovato</a>
