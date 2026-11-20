@@ -25,7 +25,7 @@ Global Solution 2026.2 · Desafio CitizenTech
 ## 👩‍🏫 Professores:
 
 ### Tutor(a)
-- [NOME DO TUTOR]
+- ANDRÉ TRITIACK
 
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/andregodoichiovato/">André Godoi Chiovato</a>
@@ -362,7 +362,7 @@ Até logo! Obrigado por acompanhar as demandas da comunidade.
 
 ### 🔗 Links do Projeto
 
-* **[Vídeo de apresentação no YouTube](https://youtu.be/[LINK DO VÍDEO])**: demonstração do sistema (vídeo não listado).
+* **[Vídeo de apresentação no YouTube](https://www.youtube.com/watch?v=0ncof68RPqY)**: demonstração do sistema (vídeo não listado).
 
 ### 🧠 Decisões Técnicas
 
@@ -375,7 +375,7 @@ Até logo! Obrigado por acompanhar as demandas da comunidade.
 
 ### 📢 Observações Gerais
 
-* **Participação na Competição:** [ ] Sim, aceitamos participar / [ ] Não vamos participar.
+* **Participação na Competição:** [X] Sim, aceitamos participar / [ ] Não vamos participar.
 
 ---
 
