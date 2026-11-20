@@ -28,7 +28,7 @@ Os cenários abaixo foram executados no terminal, e a saída foi conferida com o
 - [x] Fila: a triagem examina primeiro a ocorrência registrada há mais tempo.
 - [x] Pilha: as últimas atualizações aparecem da mais recente para a mais antiga.
 
-### Verificação pela equipe
+### Verificações feitas pela equipe
 
 A equipe deve marcar cada item depois de fazer a verificação de verdade:
 
